@@ -10,5 +10,15 @@ package javaapplication8;
  * @author ALU1J
  */
 public class basicosJesus {
-    
+    public static String Logicos(){
+        String res=null;
+        boolean a=true;
+        if (a==true){
+            res= "'a' es true";
+        }
+        else if (a==false){
+            res= "'a' es false";
+        }
+        return res;
+    }
 }
