@@ -23,6 +23,6 @@ public class basicosJesus {
     }
     
     public static void main (String args[]){
-        Logicos();
+        String a = Logicos();
     }
 }
