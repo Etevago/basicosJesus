@@ -23,6 +23,5 @@ public class basicosJesus {
     }
     
     public static void main (String args[]){
-        String a = Logicos();
-    }
+        System.out.println(Logicos()); }
 }
