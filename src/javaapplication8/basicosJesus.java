@@ -21,4 +21,8 @@ public class basicosJesus {
         }
         return res;
     }
+    
+    public static void main (String args[]){
+        Logicos();
+    }
 }
