@@ -10,5 +10,12 @@ package javaapplication8;
  * @author ALU1J
  */
 public class basicosJesus {
+    public static String Cadenas(){
+    return "Esta es una cadena";
     
+    }
+public static void main (String args[]){
+    System.out.println(Cadenas());
 }
+}
+
